@@ -1,0 +1,15 @@
+D:\GB\GB_C#\C#_HW\C-sharp-HW7\C#HW1\obj\Debug\net6.0\C#HW1.csproj.AssemblyReference.cache
+D:\GB\GB_C#\C#_HW\C-sharp-HW7\C#HW1\obj\Debug\net6.0\C#HW1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\GB_C#\C#_HW\C-sharp-HW7\C#HW1\obj\Debug\net6.0\C#HW1.AssemblyInfoInputs.cache
+D:\GB\GB_C#\C#_HW\C-sharp-HW7\C#HW1\obj\Debug\net6.0\C#HW1.AssemblyInfo.cs
+D:\GB\GB_C#\C#_HW\C-sharp-HW7\C#HW1\obj\Debug\net6.0\C#HW1.csproj.CoreCompileInputs.cache
+D:\GB\GB_C#\C#_HW\C-sharp-HW7\C#HW1\bin\Debug\net6.0\C#HW1.exe
+D:\GB\GB_C#\C#_HW\C-sharp-HW7\C#HW1\bin\Debug\net6.0\C#HW1.deps.json
+D:\GB\GB_C#\C#_HW\C-sharp-HW7\C#HW1\bin\Debug\net6.0\C#HW1.runtimeconfig.json
+D:\GB\GB_C#\C#_HW\C-sharp-HW7\C#HW1\bin\Debug\net6.0\C#HW1.dll
+D:\GB\GB_C#\C#_HW\C-sharp-HW7\C#HW1\bin\Debug\net6.0\C#HW1.pdb
+D:\GB\GB_C#\C#_HW\C-sharp-HW7\C#HW1\obj\Debug\net6.0\C#HW1.dll
+D:\GB\GB_C#\C#_HW\C-sharp-HW7\C#HW1\obj\Debug\net6.0\refint\C#HW1.dll
+D:\GB\GB_C#\C#_HW\C-sharp-HW7\C#HW1\obj\Debug\net6.0\C#HW1.pdb
+D:\GB\GB_C#\C#_HW\C-sharp-HW7\C#HW1\obj\Debug\net6.0\C#HW1.genruntimeconfig.cache
+D:\GB\GB_C#\C#_HW\C-sharp-HW7\C#HW1\obj\Debug\net6.0\ref\C#HW1.dll
