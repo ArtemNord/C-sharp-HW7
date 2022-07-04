@@ -13,7 +13,7 @@ void FillArray (double [,] matrix)
     {
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            matrix [i, j] = (new Random().NextDouble()) * (new Random().Next (-9, 9));
+            matrix [i, j] = Math.Round((new Random().NextDouble()) * (new Random().Next (-9, 9)),2);
         }
     }
 }
